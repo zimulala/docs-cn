@@ -16,7 +16,7 @@ TiDB 支持 SQL92 标准并兼容 MySQL 语法，为了帮您更好地使用 TiD
 	- [TiDB 专用系统变量和语法](tidb-specific.md)
 	- TiDB 服务器日志文件
 + TiDB 安全
-	- [TiDB 访问权限管理](privilege.md)
+	- [TiDB 访问权限管理](privilege/README.md)
 	- TiDB 用户账户管理
 	- 使用安全连接
 + 优化
@@ -31,7 +31,7 @@ TiDB 支持 SQL92 标准并兼容 MySQL 语法，为了帮您更好地使用 TiD
 	- 字符集支持
 	- 字符集配置
 	- 时区支持
-+ 数据类型
++ [数据类型](data-type/README.md)
 	- 数值类型
 	- 日期和时间类型
 	- 字符串类型
@@ -58,8 +58,8 @@ TiDB 支持 SQL92 标准并兼容 MySQL 语法，为了帮您更好地使用 TiD
 	- [其他函数](functions-and-operators/miscellaneous-functions.md)
 	- 精度数学
 + SQL 语句语法
-	- 数据定义语句(DDL)
-	- 数据操作语句(DML)
+	- [数据定义语句(DDL)](ddl/README.md)
+	- [数据操作语句(DML)](dml/README.md)
 	- 事务语句
 	- Prepared SQL 语句语法
 	- 复合语句语法
