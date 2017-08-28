@@ -42,20 +42,20 @@ TiDB 支持 SQL92 标准并兼容 MySQL 语法，为了帮您更好地使用 TiD
 	- 使用来自其他数据库引擎的数据类型
 + 函数和操作符
 	- 函数和操作符概述
-	- 表达式求值的类型转换
+	- [表达式求值的类型转换](functions-and-operators/type-conversion-in-expression-evaluation.md)
 	- 操作符
-	- 控制流程函数
-	- 字符串函数
-	- 数值函数与操作符
+	- [控制流程函数](functions-and-operators/control-flow-functions.md)
+	- [字符串函数](functions-and-operators/string-functions.md)
+	- [数值函数与操作符](functions-and-operators/numeric-functions-and-operators.md)
 	- 日期和时间函数
 	- Cast函数和操作符
 	- 位函数和操作符
-	- 加密和压缩函数
+	- [加密和压缩函数](functions-and-operators/encryption-and-compression-functions.md)
 	- 信息函数
 	- JSON 函数
 	- 全局事务 ID 函数
-	- GROUP BY 聚合函数
-	- 其他函数
+	- [GROUP BY 聚合函数](functions-and-operators/aggregate-group-by-functions.md)
+	- [其他函数](functions-and-operators/miscellaneous-functions.md)
 	- 精度数学
 + SQL 语句语法
 	- 数据定义语句(DDL)
