@@ -39,6 +39,7 @@
 + TiDB 用户文档
   + TiDB 数据库管理
     - [TiDB 专用系统变量和语法](sql/tidb-specific.md)
+    - [SQL Mode](sql/sql-mode.md)
   + TiDB 安全
     - [TiDB 访问权限管理](sql/privilege.md)
   + 优化
